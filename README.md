@@ -23,4 +23,4 @@ This repository contains the implementation and analysis of Q-Learning and Appro
 ## Results
 
 - Frozen Lake: Tested with Q-Learning and Approximate Q-Learning.
-- CartPole: Tested with Approximate Q-Learning.
+- CartPole: Tested with Q-Learning and Approximate Q-Learning
